@@ -1,0 +1,33 @@
+{
+  "streams": [
+    {
+      "title": "balkrushna",
+      "description": "my name",
+      "id": 1
+    },
+    {
+      "title": "Bhuva",
+      "description": "It's my surname",
+      "userId": "109168704939700926235",
+      "id": 2
+    },
+    {
+      "title": "React with redux",
+      "description": "Redux is an open-source JavaScript library for managing application state. It is most commonly used with libraries such as React or Angular for building user interfaces. ",
+      "userId": "107287443207041495092",
+      "id": 3
+    },
+    {
+      "title": "hey hello",
+      "description": "how are you? fine",
+      "userId": "109168704939700926235",
+      "id": 4
+    },
+    {
+      "title": "new",
+      "description": "good one two",
+      "userId": "109168704939700926235",
+      "id": 7
+    }
+  ]
+}
